@@ -1,0 +1,15 @@
+﻿  lab5_vm.cpp
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(117,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(120,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(127,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(134,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(137,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(144,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(161,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(174,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(201,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(207,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(213,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab5_vm\lab5_vm.cpp(217,21): warning C4018: <: несоответствие типов со знаком и без знака
+  lab5_vm.vcxproj -> C:\Users\79507\Desktop\lab5_vm\Debug\lab5_vm.exe
