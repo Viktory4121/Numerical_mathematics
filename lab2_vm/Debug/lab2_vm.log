@@ -1,0 +1,5 @@
+﻿  lab2_vm.cpp
+C:\Users\79507\Desktop\lab2_vm\lab2_vm.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab2_vm\lab2_vm.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab2_vm\lab2_vm.cpp(148,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2_vm.vcxproj -> C:\Users\79507\Desktop\lab2_vm\Debug\lab2_vm.exe
