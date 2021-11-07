@@ -1,0 +1,4 @@
+﻿  lab3_vm.cpp
+C:\Users\79507\Desktop\lab3_vm\lab3_vm.cpp(35,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79507\Desktop\lab3_vm\lab3_vm.cpp(37,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab3_vm.vcxproj -> C:\Users\79507\Desktop\lab3_vm\x64\Debug\lab3_vm.exe
